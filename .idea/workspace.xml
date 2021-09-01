@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="jdk" targetName="profiles-only" />
+      <config projectName="jdk" targetName="profiles-oscheck" />
+      <config projectName="jdk" targetName="start-make" />
+      <config projectName="jdk" targetName="jprt_build_generic" />
+      <config projectName="jdk" targetName="corba-only" />
+      <config projectName="jdk" targetName="clean-docs" />
+      <config projectName="jdk" targetName="docs" />
+      <config projectName="jdk" targetName="install-only" />
+      <config projectName="jdk" targetName="bootcycle-images" />
+      <config projectName="jdk" targetName="bridge2configure" />
+      <config projectName="jdk" targetName="help" />
+      <config projectName="jdk" targetName="sign-jars-only" />
+      <config projectName="jdk" targetName="jdk" />
+      <config projectName="jdk" targetName="FRC" />
+      <config projectName="jdk" targetName="install" />
+      <config projectName="jdk" targetName="jdk-only" />
+      <config projectName="jdk" targetName="langtools-only" />
+      <config projectName="jdk" targetName="demos-only" />
+      <config projectName="jdk" targetName="hotspot-only" />
+      <config projectName="jdk" targetName="make all" />
+      <config projectName="jdk" targetName="images-only" />
+      <config projectName="jdk" targetName="clean-langtools" />
+      <config projectName="jdk" targetName="overlay-images" />
+      <config projectName="jdk" targetName="clean-nashorn" />
+      <config projectName="jdk" targetName="jprt_bundle" />
+      <config projectName="jdk" targetName="clean-hotspot" />
+      <config projectName="jdk" targetName="test-only" />
+      <config projectName="jdk" targetName="test" />
+      <config projectName="jdk" targetName="TEST_FOR_NON_GNUMAKE" />
+      <config projectName="jdk" targetName="clean-test" />
+      <config projectName="jdk" targetName="images" />
+      <config projectName="jdk" targetName="corba" />
+      <config projectName="jdk" targetName="docs-only" />
+      <config projectName="jdk" targetName="clean-overlay-images" />
+      <config projectName="jdk" targetName="jprt_build_debug" />
+      <config projectName="jdk" targetName="default" />
+      <config projectName="jdk" targetName="bundles-only" />
+      <config projectName="jdk" targetName="sign-jars" />
+      <config projectName="jdk" targetName="clean-jdk" />
+      <config projectName="jdk" targetName="source-tips" />
+      <config projectName="jdk" targetName="clean-corba" />
+      <config projectName="jdk" targetName="nashorn-only" />
+      <config projectName="jdk" targetName="hotspot" />
+      <config projectName="jdk" targetName="jprt_build_product" />
+      <config projectName="jdk" targetName="clean-jaxws" />
+      <config projectName="jdk" targetName="Makefile" />
+      <config projectName="jdk" targetName="clean-jaxp" />
+      <config projectName="jdk" targetName="jprt_build_fastdebug" />
+      <config projectName="jdk" targetName="final-images" />
+      <config projectName="jdk" targetName="dist-clean" />
+      <config projectName="jdk" targetName="bootcycle-images-only" />
+      <config projectName="jdk" targetName="clean-bootcycle-build" />
+      <config projectName="jdk" targetName="bundles" />
+      <config projectName="jdk" targetName="bridgeBuild" />
+      <config projectName="jdk" targetName="jaxws" />
+      <config projectName="jdk" targetName="final-images-only" />
+      <config projectName="jdk" targetName="make clean" />
+      <config projectName="jdk" targetName="all" />
+      <config projectName="jdk" targetName="jaxp-only" />
+      <config projectName="jdk" targetName="jaxws-only" />
+      <config projectName="jdk" targetName="profiles" />
+      <config projectName="jdk" targetName="clean-images" />
+      <config projectName="jdk" targetName="langtools" />
+      <config projectName="jdk" targetName="overlay-images-only" />
+      <config projectName="jdk" targetName="nashorn" />
+      <config projectName="jdk" targetName="jaxp" />
+      <config projectName="jdk" targetName="demos" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ece4eadb-f861-4158-b230-ea6f02a65b32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hotspot/make/linux/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/hotspot/make/linux/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotspot/make/linux/makefiles/gcc.make" beforeDir="false" afterPath="$PROJECT_DIR$/hotspot/make/linux/makefiles/gcc.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/linux-i586/libLauncher.so" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/linux-i586/libLauncher.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/solaris-amd64/libLauncher.so" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/solaris-amd64/libLauncher.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/solaris-sparcv9/libLauncher.so" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/solaris-sparcv9/libLauncher.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/freebl3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/freebl3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/libnspr4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/libnspr4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/libplc4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/libplc4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/libplds4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/libplds4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/nss3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/nss3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/nssckbi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/nssckbi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/nssdbm3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/nssdbm3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/nssutil3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/nssutil3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/softokn3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/softokn3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/sqlite3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/sqlite3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/ssl3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-amd64/ssl3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/freebl3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/freebl3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/libnspr4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/libnspr4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/libplc4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/libplc4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/libplds4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/libplds4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/nss3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/nss3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/nssckbi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/nssckbi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/nssdbm3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/nssdbm3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/nssutil3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/nssutil3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/softokn3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/softokn3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/sqlite3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/sqlite3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/ssl3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/ssl3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nashorn/make/BuildNashorn.gmk" beforeDir="false" afterPath="$PROJECT_DIR$/nashorn/make/BuildNashorn.gmk" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="jdk" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="jdk" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xUxI3XsUrFI7J31gwDxvKC7ICJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Makefile" />
+    <property name="settings.editor.selected.configurable" value="CLionExternalConfigurable" />
+  </component>
+  <component name="RunManager" selected="Custom Build Application.remoteDbg">
+    <configuration name="javaVersion" type="CLionExternalRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-version" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="makejdk" CONFIG_NAME="makejdk" RUN_PATH="$PROJECT_DIR$/build/linux-x86_64-normal-server-slowdebug/jdk/bin/java">
+      <method v="2" />
+    </configuration>
+    <configuration name="remoteDbg" type="CLionExternalRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-jar -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=5005 $PROJECT_DIR$/../IdeaProjects/java-gradle/playground/build/libs/playground-0.0.1-SNAPSHOT.jar" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="makejdk" CONFIG_NAME="makejdk" RUN_PATH="$PROJECT_DIR$/build/linux-x86_64-normal-server-slowdebug/jdk/bin/java">
+      <method v="2" />
+    </configuration>
+    <configuration name="FRC" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="FRC" CONFIG_NAME="FRC" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Makefile" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="Makefile" CONFIG_NAME="Makefile" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TEST_FOR_NON_GNUMAKE" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="TEST_FOR_NON_GNUMAKE" CONFIG_NAME="TEST_FOR_NON_GNUMAKE" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="all" CONFIG_NAME="all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bootcycle-images-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="bootcycle-images-only" CONFIG_NAME="bootcycle-images-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bootcycle-images" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="bootcycle-images" CONFIG_NAME="bootcycle-images" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bridge2configure" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="bridge2configure" CONFIG_NAME="bridge2configure" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bridgeBuild" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="bridgeBuild" CONFIG_NAME="bridgeBuild" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bundles-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="bundles-only" CONFIG_NAME="bundles-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bundles" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="bundles" CONFIG_NAME="bundles" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-bootcycle-build" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="clean-bootcycle-build" CONFIG_NAME="clean-bootcycle-build" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-corba" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="clean-corba" CONFIG_NAME="clean-corba" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-docs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="clean-docs" CONFIG_NAME="clean-docs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-hotspot" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="clean-hotspot" CONFIG_NAME="clean-hotspot" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-images" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="clean-images" CONFIG_NAME="clean-images" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-jaxp" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="clean-jaxp" CONFIG_NAME="clean-jaxp" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-jaxws" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="clean-jaxws" CONFIG_NAME="clean-jaxws" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-jdk" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="clean-jdk" CONFIG_NAME="clean-jdk" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-langtools" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="clean-langtools" CONFIG_NAME="clean-langtools" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-nashorn" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="clean-nashorn" CONFIG_NAME="clean-nashorn" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-overlay-images" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="clean-overlay-images" CONFIG_NAME="clean-overlay-images" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="clean-test" CONFIG_NAME="clean-test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="corba-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="corba-only" CONFIG_NAME="corba-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="corba" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="corba" CONFIG_NAME="corba" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="default" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="default" CONFIG_NAME="default" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demos-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="demos-only" CONFIG_NAME="demos-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demos" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="demos" CONFIG_NAME="demos" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist-clean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="dist-clean" CONFIG_NAME="dist-clean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docs-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="docs-only" CONFIG_NAME="docs-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="docs" CONFIG_NAME="docs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="final-images-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="final-images-only" CONFIG_NAME="final-images-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="final-images" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="final-images" CONFIG_NAME="final-images" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="help" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="help" CONFIG_NAME="help" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hotspot-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="hotspot-only" CONFIG_NAME="hotspot-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hotspot" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="hotspot" CONFIG_NAME="hotspot" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="images-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="images-only" CONFIG_NAME="images-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="images" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="images" CONFIG_NAME="images" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="install-only" CONFIG_NAME="install-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="install" CONFIG_NAME="install" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jaxp-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="jaxp-only" CONFIG_NAME="jaxp-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jaxp" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="jaxp" CONFIG_NAME="jaxp" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jaxws-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="jaxws-only" CONFIG_NAME="jaxws-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jaxws" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="jaxws" CONFIG_NAME="jaxws" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jdk-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="jdk-only" CONFIG_NAME="jdk-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jdk" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="jdk" CONFIG_NAME="jdk" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jprt_build_debug" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="jprt_build_debug" CONFIG_NAME="jprt_build_debug" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jprt_build_fastdebug" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="jprt_build_fastdebug" CONFIG_NAME="jprt_build_fastdebug" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jprt_build_generic" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="jprt_build_generic" CONFIG_NAME="jprt_build_generic" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jprt_build_product" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="jprt_build_product" CONFIG_NAME="jprt_build_product" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jprt_bundle" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="jprt_bundle" CONFIG_NAME="jprt_bundle" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="langtools-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="langtools-only" CONFIG_NAME="langtools-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="langtools" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="langtools" CONFIG_NAME="langtools" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nashorn-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="nashorn-only" CONFIG_NAME="nashorn-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nashorn" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="nashorn" CONFIG_NAME="nashorn" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="overlay-images-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="overlay-images-only" CONFIG_NAME="overlay-images-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="overlay-images" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="overlay-images" CONFIG_NAME="overlay-images" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="profiles-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="profiles-only" CONFIG_NAME="profiles-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="profiles-oscheck" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="profiles-oscheck" CONFIG_NAME="profiles-oscheck" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="profiles" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="profiles" CONFIG_NAME="profiles" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sign-jars-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="sign-jars-only" CONFIG_NAME="sign-jars-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sign-jars" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="sign-jars" CONFIG_NAME="sign-jars" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="source-tips" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="source-tips" CONFIG_NAME="source-tips" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start-make" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="start-make" CONFIG_NAME="start-make" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-only" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="test-only" CONFIG_NAME="test-only" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="test" CONFIG_NAME="test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Custom Build Application.javaVersion" />
+      <item itemvalue="Custom Build Application.remoteDbg" />
+      <item itemvalue="Makefile Application.all" />
+      <item itemvalue="Makefile Application.bootcycle-images" />
+      <item itemvalue="Makefile Application.bridge2configure" />
+      <item itemvalue="Makefile Application.bridgeBuild" />
+      <item itemvalue="Makefile Application.bundles" />
+      <item itemvalue="Makefile Application.clean-bootcycle-build" />
+      <item itemvalue="Makefile Application.clean-corba" />
+      <item itemvalue="Makefile Application.clean-docs" />
+      <item itemvalue="Makefile Application.clean-hotspot" />
+      <item itemvalue="Makefile Application.clean-images" />
+      <item itemvalue="Makefile Application.clean-jaxp" />
+      <item itemvalue="Makefile Application.clean-jaxws" />
+      <item itemvalue="Makefile Application.clean-jdk" />
+      <item itemvalue="Makefile Application.clean-langtools" />
+      <item itemvalue="Makefile Application.clean-nashorn" />
+      <item itemvalue="Makefile Application.clean-overlay-images" />
+      <item itemvalue="Makefile Application.clean-test" />
+      <item itemvalue="Makefile Application.corba" />
+      <item itemvalue="Makefile Application.corba-only" />
+      <item itemvalue="Makefile Application.default" />
+      <item itemvalue="Makefile Application.dist-clean" />
+      <item itemvalue="Makefile Application.docs" />
+      <item itemvalue="Makefile Application.docs-only" />
+      <item itemvalue="Makefile Application.final-images" />
+      <item itemvalue="Makefile Application.final-images-only" />
+      <item itemvalue="Makefile Application.help" />
+      <item itemvalue="Makefile Application.hotspot" />
+      <item itemvalue="Makefile Application.hotspot-only" />
+      <item itemvalue="Makefile Application.images" />
+      <item itemvalue="Makefile Application.images-only" />
+      <item itemvalue="Makefile Application.install" />
+      <item itemvalue="Makefile Application.install-only" />
+      <item itemvalue="Makefile Application.jaxp" />
+      <item itemvalue="Makefile Application.jaxp-only" />
+      <item itemvalue="Makefile Application.jaxws" />
+      <item itemvalue="Makefile Application.jaxws-only" />
+      <item itemvalue="Makefile Application.jdk" />
+      <item itemvalue="Makefile Application.jdk-only" />
+      <item itemvalue="Makefile Application.jprt_build_debug" />
+      <item itemvalue="Makefile Application.jprt_build_fastdebug" />
+      <item itemvalue="Makefile Application.jprt_build_generic" />
+      <item itemvalue="Makefile Application.jprt_build_product" />
+      <item itemvalue="Makefile Application.jprt_bundle" />
+      <item itemvalue="Makefile Application.langtools" />
+      <item itemvalue="Makefile Application.langtools-only" />
+      <item itemvalue="Makefile Application.nashorn" />
+      <item itemvalue="Makefile Application.nashorn-only" />
+      <item itemvalue="Makefile Application.overlay-images" />
+      <item itemvalue="Makefile Application.overlay-images-only" />
+      <item itemvalue="Makefile Application.profiles" />
+      <item itemvalue="Makefile Application.profiles-only" />
+      <item itemvalue="Makefile Application.profiles-oscheck" />
+      <item itemvalue="Makefile Application.start-make" />
+      <item itemvalue="Makefile Application.test" />
+      <item itemvalue="Makefile Application.test-only" />
+      <item itemvalue="Makefile Application.bootcycle-images-only" />
+      <item itemvalue="Makefile Application.bundles-only" />
+      <item itemvalue="Makefile Application.demos" />
+      <item itemvalue="Makefile Application.demos-only" />
+      <item itemvalue="Makefile Application.FRC" />
+      <item itemvalue="Makefile Application.Makefile" />
+      <item itemvalue="Makefile Application.sign-jars" />
+      <item itemvalue="Makefile Application.sign-jars-only" />
+      <item itemvalue="Makefile Application.source-tips" />
+      <item itemvalue="Makefile Application.TEST_FOR_NON_GNUMAKE" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ece4eadb-f861-4158-b230-ea6f02a65b32" name="Default Changelist" comment="" />
+      <created>1630423384962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630423384962</updated>
+      <workItem from="1630423386251" duration="2115000" />
+      <workItem from="1630507545982" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/jdk/src/share/bin/java.c</url>
+          <line>350</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/hotspot/src/share/vm/gc_implementation/g1/collectionSetChooser.cpp</url>
+          <line>42</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
