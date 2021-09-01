@@ -11,5 +11,15 @@
         </clean>
       </configuration>
     </target>
+    <target id="3d1c413e-89ca-486c-80d2-ed642c7bbdd4" name="makejdktool" defaultType="TOOL">
+      <configuration id="99586547-d46a-4498-b0f0-e01700931936" name="makejdktool">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_make all" />
+        </build>
+        <clean type="TOOL">
+          <tool actionId="Tool_External Tools_make clean" />
+        </clean>
+      </configuration>
+    </target>
   </component>
 </project>

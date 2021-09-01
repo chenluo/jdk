@@ -314,6 +314,13 @@
 # include "gc_implementation/shared/gcAdaptivePolicyCounters.hpp"
 # include "gc_implementation/shared/gcPolicyCounters.hpp"
 # include "gc_implementation/shared/parGCAllocBuffer.hpp"
+# include "globals_x86.hpp"
+# include <cstdlib>
+# include "register_x86.hpp"
+# include "assembler_x86.hpp"
+# include "globalDefinitions_x86.hpp"
+# include "assembler_x86.hpp"
+# include <stubRoutines_x86.hpp>
 #endif // INCLUDE_ALL_GCS
 
 #endif // !DONT_USE_PRECOMPILED_HEADER

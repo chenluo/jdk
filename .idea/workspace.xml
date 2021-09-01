@@ -80,9 +80,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ece4eadb-f861-4158-b230-ea6f02a65b32" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hotspot/make/linux/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/hotspot/make/linux/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotspot/make/linux/makefiles/gcc.make" beforeDir="false" afterPath="$PROJECT_DIR$/hotspot/make/linux/makefiles/gcc.make" afterDir="false" />
+    <list default="true" id="ece4eadb-f861-4158-b230-ea6f02a65b32" name="Default Changelist" comment="add idea project file and the changes to build on ubuntu 20.04 with gcc-4.7">
+      <change afterPath="$PROJECT_DIR$/.idea/tools/External Tools.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build-script.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/customTargets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/customTargets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotspot/src/share/vm/precompiled/precompiled.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/hotspot/src/share/vm/precompiled/precompiled.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/linux-i586/libLauncher.so" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/linux-i586/libLauncher.so" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/solaris-amd64/libLauncher.so" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/solaris-amd64/libLauncher.so" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/solaris-sparcv9/libLauncher.so" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/solaris-sparcv9/libLauncher.so" afterDir="false" />
@@ -108,12 +111,16 @@
       <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/softokn3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/softokn3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/sqlite3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/sqlite3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/ssl3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/sun/security/pkcs11/nss/lib/windows-i586/ssl3.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nashorn/make/BuildNashorn.gmk" beforeDir="false" afterPath="$PROJECT_DIR$/nashorn/make/BuildNashorn.gmk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
@@ -169,16 +176,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Makefile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="CLionExternalConfigurable" />
   </component>
   <component name="RunManager" selected="Custom Build Application.remoteDbg">
     <configuration name="javaVersion" type="CLionExternalRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-version" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="makejdk" CONFIG_NAME="makejdk" RUN_PATH="$PROJECT_DIR$/build/linux-x86_64-normal-server-slowdebug/jdk/bin/java">
       <method v="2" />
     </configuration>
-    <configuration name="remoteDbg" type="CLionExternalRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-jar -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=5005 $PROJECT_DIR$/../IdeaProjects/java-gradle/playground/build/libs/playground-0.0.1-SNAPSHOT.jar" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="makejdk" CONFIG_NAME="makejdk" RUN_PATH="$PROJECT_DIR$/build/linux-x86_64-normal-server-slowdebug/jdk/bin/java">
+    <configuration name="remoteDbg" type="CLionExternalRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-jar -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=5005 $PROJECT_DIR$/../IdeaProjects/java-gradle/playground/build/libs/playground-0.0.1-SNAPSHOT.jar" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="makejdktool" CONFIG_NAME="makejdktool" RUN_PATH="$PROJECT_DIR$/build/linux-x86_64-normal-server-slowdebug/jdk/bin/java">
       <method v="2" />
     </configuration>
     <configuration name="FRC" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="FRC" CONFIG_NAME="FRC" version="1">
@@ -595,12 +603,35 @@
       <option name="presentableId" value="Default" />
       <updated>1630423384962</updated>
       <workItem from="1630423386251" duration="2115000" />
-      <workItem from="1630507545982" duration="12000" />
+      <workItem from="1630507545982" duration="3153000" />
     </task>
+    <task id="LOCAL-00001" summary="add idea project file and the changes to build on ubuntu 20.04 with gcc-4.7">
+      <created>1630508528958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630508528958</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add idea project file and the changes to build on ubuntu 20.04 with gcc-4.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="add idea project file and the changes to build on ubuntu 20.04 with gcc-4.7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
