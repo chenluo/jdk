@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="remoteDbg" type="CLionExternalRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-jar -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=5005 $PROJECT_DIR$/../IdeaProjects/java-gradle/playground/build/libs/playground-0.0.1-SNAPSHOT.jar" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="makejdktool" CONFIG_NAME="makejdktool" RUN_PATH="$PROJECT_DIR$/build/linux-x86_64-normal-server-slowdebug/jdk/bin/java">
+    <method v="2" />
+  </configuration>
+</component>
