@@ -5,73 +5,73 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="jdk" targetName="profiles-only" />
-      <config projectName="jdk" targetName="profiles-oscheck" />
-      <config projectName="jdk" targetName="start-make" />
-      <config projectName="jdk" targetName="jprt_build_generic" />
-      <config projectName="jdk" targetName="corba-only" />
-      <config projectName="jdk" targetName="clean-docs" />
-      <config projectName="jdk" targetName="docs" />
-      <config projectName="jdk" targetName="install-only" />
-      <config projectName="jdk" targetName="bootcycle-images" />
-      <config projectName="jdk" targetName="bridge2configure" />
-      <config projectName="jdk" targetName="help" />
-      <config projectName="jdk" targetName="sign-jars-only" />
-      <config projectName="jdk" targetName="jdk" />
-      <config projectName="jdk" targetName="FRC" />
-      <config projectName="jdk" targetName="install" />
-      <config projectName="jdk" targetName="jdk-only" />
-      <config projectName="jdk" targetName="langtools-only" />
-      <config projectName="jdk" targetName="demos-only" />
-      <config projectName="jdk" targetName="hotspot-only" />
-      <config projectName="jdk" targetName="make all" />
+      <config projectName="jdk" targetName="jaxws-only" />
+      <config projectName="jdk" targetName="clean-jaxp" />
       <config projectName="jdk" targetName="images-only" />
-      <config projectName="jdk" targetName="clean-langtools" />
-      <config projectName="jdk" targetName="overlay-images" />
-      <config projectName="jdk" targetName="clean-nashorn" />
+      <config projectName="jdk" targetName="hotspot" />
+      <config projectName="jdk" targetName="jprt_build_fastdebug" />
+      <config projectName="jdk" targetName="Makefile" />
+      <config projectName="jdk" targetName="FRC" />
+      <config projectName="jdk" targetName="final-images" />
+      <config projectName="jdk" targetName="jaxp" />
+      <config projectName="jdk" targetName="clean-docs" />
+      <config projectName="jdk" targetName="profiles-only" />
       <config projectName="jdk" targetName="jprt_bundle" />
-      <config projectName="jdk" targetName="clean-hotspot" />
-      <config projectName="jdk" targetName="test-only" />
-      <config projectName="jdk" targetName="test" />
+      <config projectName="jdk" targetName="jprt_build_product" />
+      <config projectName="jdk" targetName="jdk" />
+      <config projectName="jdk" targetName="start-make" />
+      <config projectName="jdk" targetName="clean-images" />
+      <config projectName="jdk" targetName="install" />
+      <config projectName="jdk" targetName="default" />
+      <config projectName="jdk" targetName="clean-overlay-images" />
+      <config projectName="jdk" targetName="jdk-only" />
+      <config projectName="jdk" targetName="profiles-oscheck" />
+      <config projectName="jdk" targetName="jprt_build_generic" />
+      <config projectName="jdk" targetName="hotspot-only" />
       <config projectName="jdk" targetName="TEST_FOR_NON_GNUMAKE" />
+      <config projectName="jdk" targetName="jprt_build_debug" />
+      <config projectName="jdk" targetName="source-tips" />
+      <config projectName="jdk" targetName="langtools-only" />
+      <config projectName="jdk" targetName="help" />
+      <config projectName="jdk" targetName="bridgeBuild" />
+      <config projectName="jdk" targetName="profiles" />
+      <config projectName="jdk" targetName="dist-clean" />
+      <config projectName="jdk" targetName="clean-bootcycle-build" />
+      <config projectName="jdk" targetName="clean-nashorn" />
+      <config projectName="jdk" targetName="bundles" />
+      <config projectName="jdk" targetName="sign-jars-only" />
+      <config projectName="jdk" targetName="demos-only" />
+      <config projectName="jdk" targetName="bundles-only" />
+      <config projectName="jdk" targetName="bridge2configure" />
+      <config projectName="jdk" targetName="nashorn" />
+      <config projectName="jdk" targetName="demos" />
+      <config projectName="jdk" targetName="final-images-only" />
+      <config projectName="jdk" targetName="nashorn-only" />
+      <config projectName="jdk" targetName="make all" />
+      <config projectName="jdk" targetName="overlay-images" />
+      <config projectName="jdk" targetName="make clean" />
+      <config projectName="jdk" targetName="langtools" />
+      <config projectName="jdk" targetName="jaxws" />
+      <config projectName="jdk" targetName="docs" />
+      <config projectName="jdk" targetName="sign-jars" />
+      <config projectName="jdk" targetName="all" />
+      <config projectName="jdk" targetName="overlay-images-only" />
+      <config projectName="jdk" targetName="corba-only" />
+      <config projectName="jdk" targetName="jaxp-only" />
+      <config projectName="jdk" targetName="clean-corba" />
       <config projectName="jdk" targetName="clean-test" />
       <config projectName="jdk" targetName="images" />
+      <config projectName="jdk" targetName="test" />
       <config projectName="jdk" targetName="corba" />
+      <config projectName="jdk" targetName="install-only" />
       <config projectName="jdk" targetName="docs-only" />
-      <config projectName="jdk" targetName="clean-overlay-images" />
-      <config projectName="jdk" targetName="jprt_build_debug" />
-      <config projectName="jdk" targetName="default" />
-      <config projectName="jdk" targetName="bundles-only" />
-      <config projectName="jdk" targetName="sign-jars" />
-      <config projectName="jdk" targetName="clean-jdk" />
-      <config projectName="jdk" targetName="source-tips" />
-      <config projectName="jdk" targetName="clean-corba" />
-      <config projectName="jdk" targetName="nashorn-only" />
-      <config projectName="jdk" targetName="hotspot" />
-      <config projectName="jdk" targetName="jprt_build_product" />
-      <config projectName="jdk" targetName="clean-jaxws" />
-      <config projectName="jdk" targetName="Makefile" />
-      <config projectName="jdk" targetName="clean-jaxp" />
-      <config projectName="jdk" targetName="jprt_build_fastdebug" />
-      <config projectName="jdk" targetName="final-images" />
-      <config projectName="jdk" targetName="dist-clean" />
       <config projectName="jdk" targetName="bootcycle-images-only" />
-      <config projectName="jdk" targetName="clean-bootcycle-build" />
-      <config projectName="jdk" targetName="bundles" />
-      <config projectName="jdk" targetName="bridgeBuild" />
-      <config projectName="jdk" targetName="jaxws" />
-      <config projectName="jdk" targetName="final-images-only" />
-      <config projectName="jdk" targetName="make clean" />
-      <config projectName="jdk" targetName="all" />
-      <config projectName="jdk" targetName="jaxp-only" />
-      <config projectName="jdk" targetName="jaxws-only" />
-      <config projectName="jdk" targetName="profiles" />
-      <config projectName="jdk" targetName="clean-images" />
-      <config projectName="jdk" targetName="langtools" />
-      <config projectName="jdk" targetName="overlay-images-only" />
-      <config projectName="jdk" targetName="nashorn" />
-      <config projectName="jdk" targetName="jaxp" />
-      <config projectName="jdk" targetName="demos" />
+      <config projectName="jdk" targetName="bootcycle-images" />
+      <config projectName="jdk" targetName="clean-jdk" />
+      <config projectName="jdk" targetName="clean-langtools" />
+      <config projectName="jdk" targetName="clean-hotspot" />
+      <config projectName="jdk" targetName="test-only" />
+      <config projectName="jdk" targetName="clean-jaxws" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -81,11 +81,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ece4eadb-f861-4158-b230-ea6f02a65b32" name="Default Changelist" comment="add idea project file and the changes to build on ubuntu 20.04 with gcc-4.7">
-      <change afterPath="$PROJECT_DIR$/.idea/tools/External Tools.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build-script.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/customTargets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/customTargets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jdk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jdk.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotspot/src/share/vm/precompiled/precompiled.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/hotspot/src/share/vm/precompiled/precompiled.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/linux-i586/libLauncher.so" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/linux-i586/libLauncher.so" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/solaris-amd64/libLauncher.so" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/solaris-amd64/libLauncher.so" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/solaris-sparcv9/libLauncher.so" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/test/java/nio/channels/spi/SelectorProvider/inheritedChannel/lib/solaris-sparcv9/libLauncher.so" afterDir="false" />
@@ -180,15 +177,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="CLionExternalConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Custom Build Application.remoteDbg">
-    <configuration name="javaVersion" type="CLionExternalRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-version" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="makejdk" CONFIG_NAME="makejdk" RUN_PATH="$PROJECT_DIR$/build/linux-x86_64-normal-server-slowdebug/jdk/bin/java">
-      <method v="2" />
-    </configuration>
-    <configuration name="remoteDbg" type="CLionExternalRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-jar -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=5005 $PROJECT_DIR$/../IdeaProjects/java-gradle/playground/build/libs/playground-0.0.1-SNAPSHOT.jar" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="makejdktool" CONFIG_NAME="makejdktool" RUN_PATH="$PROJECT_DIR$/build/linux-x86_64-normal-server-slowdebug/jdk/bin/java">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Custom Build Application.javaVersion">
     <configuration name="FRC" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jdk" TARGET_NAME="FRC" CONFIG_NAME="FRC" version="1">
       <method v="2">
         <option name="CLION.COMPOUND.BUILD" enabled="true" />
@@ -514,23 +505,18 @@
         <option name="CLION.COMPOUND.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Custom Build Application.javaVersion" />
       <item itemvalue="Custom Build Application.remoteDbg" />
+      <item itemvalue="Makefile Application.FRC" />
+      <item itemvalue="Makefile Application.Makefile" />
+      <item itemvalue="Makefile Application.TEST_FOR_NON_GNUMAKE" />
       <item itemvalue="Makefile Application.all" />
+      <item itemvalue="Makefile Application.bootcycle-images-only" />
       <item itemvalue="Makefile Application.bootcycle-images" />
       <item itemvalue="Makefile Application.bridge2configure" />
       <item itemvalue="Makefile Application.bridgeBuild" />
+      <item itemvalue="Makefile Application.bundles-only" />
       <item itemvalue="Makefile Application.bundles" />
       <item itemvalue="Makefile Application.clean-bootcycle-build" />
       <item itemvalue="Makefile Application.clean-corba" />
@@ -544,54 +530,49 @@
       <item itemvalue="Makefile Application.clean-nashorn" />
       <item itemvalue="Makefile Application.clean-overlay-images" />
       <item itemvalue="Makefile Application.clean-test" />
-      <item itemvalue="Makefile Application.corba" />
       <item itemvalue="Makefile Application.corba-only" />
+      <item itemvalue="Makefile Application.corba" />
       <item itemvalue="Makefile Application.default" />
+      <item itemvalue="Makefile Application.demos-only" />
+      <item itemvalue="Makefile Application.demos" />
       <item itemvalue="Makefile Application.dist-clean" />
-      <item itemvalue="Makefile Application.docs" />
       <item itemvalue="Makefile Application.docs-only" />
-      <item itemvalue="Makefile Application.final-images" />
+      <item itemvalue="Makefile Application.docs" />
       <item itemvalue="Makefile Application.final-images-only" />
+      <item itemvalue="Makefile Application.final-images" />
       <item itemvalue="Makefile Application.help" />
-      <item itemvalue="Makefile Application.hotspot" />
       <item itemvalue="Makefile Application.hotspot-only" />
-      <item itemvalue="Makefile Application.images" />
+      <item itemvalue="Makefile Application.hotspot" />
       <item itemvalue="Makefile Application.images-only" />
-      <item itemvalue="Makefile Application.install" />
+      <item itemvalue="Makefile Application.images" />
       <item itemvalue="Makefile Application.install-only" />
-      <item itemvalue="Makefile Application.jaxp" />
+      <item itemvalue="Makefile Application.install" />
       <item itemvalue="Makefile Application.jaxp-only" />
-      <item itemvalue="Makefile Application.jaxws" />
+      <item itemvalue="Makefile Application.jaxp" />
       <item itemvalue="Makefile Application.jaxws-only" />
-      <item itemvalue="Makefile Application.jdk" />
+      <item itemvalue="Makefile Application.jaxws" />
       <item itemvalue="Makefile Application.jdk-only" />
+      <item itemvalue="Makefile Application.jdk" />
       <item itemvalue="Makefile Application.jprt_build_debug" />
       <item itemvalue="Makefile Application.jprt_build_fastdebug" />
       <item itemvalue="Makefile Application.jprt_build_generic" />
       <item itemvalue="Makefile Application.jprt_build_product" />
       <item itemvalue="Makefile Application.jprt_bundle" />
-      <item itemvalue="Makefile Application.langtools" />
       <item itemvalue="Makefile Application.langtools-only" />
-      <item itemvalue="Makefile Application.nashorn" />
+      <item itemvalue="Makefile Application.langtools" />
       <item itemvalue="Makefile Application.nashorn-only" />
-      <item itemvalue="Makefile Application.overlay-images" />
+      <item itemvalue="Makefile Application.nashorn" />
       <item itemvalue="Makefile Application.overlay-images-only" />
-      <item itemvalue="Makefile Application.profiles" />
+      <item itemvalue="Makefile Application.overlay-images" />
       <item itemvalue="Makefile Application.profiles-only" />
       <item itemvalue="Makefile Application.profiles-oscheck" />
-      <item itemvalue="Makefile Application.start-make" />
-      <item itemvalue="Makefile Application.test" />
-      <item itemvalue="Makefile Application.test-only" />
-      <item itemvalue="Makefile Application.bootcycle-images-only" />
-      <item itemvalue="Makefile Application.bundles-only" />
-      <item itemvalue="Makefile Application.demos" />
-      <item itemvalue="Makefile Application.demos-only" />
-      <item itemvalue="Makefile Application.FRC" />
-      <item itemvalue="Makefile Application.Makefile" />
-      <item itemvalue="Makefile Application.sign-jars" />
+      <item itemvalue="Makefile Application.profiles" />
       <item itemvalue="Makefile Application.sign-jars-only" />
+      <item itemvalue="Makefile Application.sign-jars" />
       <item itemvalue="Makefile Application.source-tips" />
-      <item itemvalue="Makefile Application.TEST_FOR_NON_GNUMAKE" />
+      <item itemvalue="Makefile Application.start-make" />
+      <item itemvalue="Makefile Application.test-only" />
+      <item itemvalue="Makefile Application.test" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -604,6 +585,9 @@
       <updated>1630423384962</updated>
       <workItem from="1630423386251" duration="2115000" />
       <workItem from="1630507545982" duration="3153000" />
+      <workItem from="1630673865325" duration="1033000" />
+      <workItem from="1643736275248" duration="34000" />
+      <workItem from="1645536041229" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="add idea project file and the changes to build on ubuntu 20.04 with gcc-4.7">
       <created>1630508528958</created>
@@ -628,6 +612,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add idea project file and the changes to build on ubuntu 20.04 with gcc-4.7" />
